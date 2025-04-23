@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+
+}
+
+.abhi{
+    white-space: 70px;
+    color:white ;
+    background-image: url("./nature.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.abhi>h1{
+    margin-bottom: 10px ;
+    font-size:xx-large;
+    width: 70%;
+}
+.gouri>button{
+   padding: 10px 20px;
+background-color: blue;
+border: 10px;
+}
